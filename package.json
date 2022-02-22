@@ -1,0 +1,19 @@
+{
+  "name": "@j4ce-test/core",
+  "version": "1.0.2",
+  "description": "Testing npm publishing and versioning",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jack4Code/npm-publish-test.git"
+  },
+  "author": "Jack Giannini",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jack4Code/npm-publish-test/issues"
+  },
+  "homepage": "https://github.com/Jack4Code/npm-publish-test#readme"
+}
